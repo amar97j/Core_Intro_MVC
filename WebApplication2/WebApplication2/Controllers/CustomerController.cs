@@ -14,8 +14,8 @@ namespace WebApplication2.Controllers
                 new Customer{ Id = "2", Name = "Yara", Address = "ADAN" },
                 new Customer{ Id = "3", Name = "OODA", Address = "KAIFAN" }
                 };
-
-            return View(customers);
+            ViewData["data"] = customers;
+            return View();
         }
     }
 }
