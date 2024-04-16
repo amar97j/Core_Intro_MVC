@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\83320\\Desktop\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\views\\customercontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\customercontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\CustomerController\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\CustomerController\\Index.cshtml",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\CustomerController\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\CustomerController\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T06:50:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:27:48.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:27:20.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:21:28.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
