@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Customer
+
+<form asp-action="AddCustomer" method="post">
+    <label asp-for="Id">Id:</label>
+    <input asp-for="Id" />
+
+    <label asp-for="Name">Name:</label>
+    <input asp-for="Name" />
+
+    <label asp-for="Address">Address:</label>
+    <input asp-for="Address" />
+
+
+    <button type="submit">Add Customer</button>
+</form>
