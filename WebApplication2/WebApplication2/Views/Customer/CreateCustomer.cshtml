@@ -3,18 +3,17 @@
 *@
 @{
 }
-@model Customer
 
-<form asp-action="AddCustomer" method="post">
-    <label asp-for="Id">Id:</label>
-    <input asp-for="Id" />
+@model AddCustomerForm
 
+<form asp-action="CreateCustomer" method="post">
     <label asp-for="Name">Name:</label>
     <input asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
 
     <label asp-for="Address">Address:</label>
     <input asp-for="Address" />
-
+    <span asp-validation-for="Address" class="text-danger"></span>
 
     <button type="submit">Add Customer</button>
 </form>
