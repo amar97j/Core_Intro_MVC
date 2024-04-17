@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\83320\\Desktop\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E1EDB0-EEEC-4226-AB9A-73DC23AB5697}|WebApplication2\\WebApplication2.csproj|c:\\users\\83320\\desktop\\webapplication2\\webapplication2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,31 +48,66 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T08:09:24.806Z",
+              "WhenOpened": "2024-04-17T05:29:47.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:27:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:26:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T08:03:48.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T10:17:43.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:09:24.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
@@ -68,25 +115,23 @@
               "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T06:27:48.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T06:27:48.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T06:27:20.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T06:27:20.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\83320\\Desktop\\WebApplication2\\WebApplication2\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\Customer.cs",
